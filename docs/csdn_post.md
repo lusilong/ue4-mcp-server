@@ -210,7 +210,7 @@ ue4-mcp-server/
 pip install ue4-mcp-server
 
 # 或从源码
-git clone https://github.com/lsl/ue4-mcp-server.git
+git clone https://github.com/lusilong/ue4-mcp-server.git
 cd ue4-mcp-server
 pip install -e .
 
@@ -255,7 +255,7 @@ pip install -e .
 
 ---
 
-**项目地址：** https://github.com/lsl/ue4-mcp-server
+**项目地址：** https://github.com/lusilong/ue4-mcp-server
 
 **相关资源：**
 - [MCP 官方文档](https://modelcontextprotocol.io)
