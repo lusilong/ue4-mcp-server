@@ -35,7 +35,7 @@ pip install ue4-mcp-server
 或从源码安装：
 
 ```bash
-git clone https://github.com/lsl/ue4-mcp-server.git
+git clone https://github.com/lusilong/ue4-mcp-server.git
 cd ue4-mcp-server
 pip install -e .
 ```
@@ -150,3 +150,8 @@ AI 会自动调用对应的 MCP 工具，通过 Remote Execution 在编辑器中
 ## License
 
 MIT
+
+---
+
+**Publish status (2026-09-22):** live on GitHub → https://github.com/lusilong/ue4-mcp-server
+CSDN walkthrough: see docs/csdn_post.md (translated copy on the Desktop).
